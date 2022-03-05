@@ -11,3 +11,5 @@ Dataset can be downloaded from below link:
 </br>
 Link: https://www.kaggle.com/pdavpoojan/the-rvlcdip-dataset-test
 
+</br>
+API built only for summarizer.
