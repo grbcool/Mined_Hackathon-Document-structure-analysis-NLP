@@ -13,3 +13,5 @@ Link: https://www.kaggle.com/pdavpoojan/the-rvlcdip-dataset-test
 
 </br>
 API built only for summarizer.
+
+Video implementation of our project is shown here: https://drive.google.com/file/d/134hANDnnCbpWs1f8dXD7RbnN0BiWfapn/view?usp=sharing
