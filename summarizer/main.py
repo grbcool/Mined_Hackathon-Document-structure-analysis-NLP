@@ -13,7 +13,7 @@ pickle_in.close()
 # 3. Index route, opens automatically on http://127.0.0.1:8000
 @app.get('/')
 def index():
-    return {'message': 'Hello, World'}
+    return {'message': 'Hello, post a text to get summary'}
 
 @app.post('/summarizer')
 def summarize_text(text: summ_bm):
